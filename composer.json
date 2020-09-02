@@ -1,0 +1,10 @@
+{
+    "name": "symplicity/sympletest",
+    "description": "Sympletest",
+    "type": "project",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    },
+    "license": "proprietary",
+    "minimum-stability": "dev"
+}
